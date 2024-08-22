@@ -31,6 +31,9 @@ As a reference, Misko 3 specifications:
  Microcontroller frequency: 170 MHz
 
 
+# Software
+The development environment used for Space Misko is STM32CubeIDE. This IDE was chosen for its robust support for STM32 microcontrollers, integrating the necessary tools for development, debugging, and project management. The game was programmed in C, using both Low Layer (LL) and Hardware Abstraction Layer (HAL) drivers.
+
 # Gameplay
 
 In Space Misko, your goal is to destroy as many enemy targets (alien invaders) as possible. You control a rocket using a joystick, moving it left and right across the screen. The targets spawn randomly on the screen, with varying speeds. Each time a target hits an edge of the screen, it moves downwards and increases in speed. To destroy them, press the button to fire a bullet. Each time you're hit, you lose a life point. The game ends when all life points are depleted.
