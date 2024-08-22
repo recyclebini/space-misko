@@ -10,7 +10,8 @@ Space Misko is a video game inspired by the classic "Space Invaders," created as
 
 # Required specifications
 
-Misko 3 specifications:
+As a reference, Misko 3 specifications:
+ 
  2.8" TFT LCD color display with a resolution of 320 x 240 px
  
  6 buttons
