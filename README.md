@@ -4,7 +4,8 @@
 # INTRODUCTION
 
 Space Miško is a video game inspired by the classic "Space Invaders," created as a project for the subject Fundamentals of Microprocessor Electronics at the Faculty of Electrical Engineering, University of Ljubljana. This game is designed to run on a student microcontroller development board Misko 3 based on the STM32G474QET.
-![splashfinal](https://github.com/user-attachments/assets/2b000eb1-a686-40ae-94ca-8ca9823605b8)
+
+![splashfinal](https://github.com/user-attachments/assets/0b1458d3-8253-430c-971e-4ed74075e11b)
 
 
 # GAMEPLAY
